@@ -30,15 +30,4 @@ A modern Android Todo application built with Material Design 3 components and Ro
 - RecyclerView
 - CoordinatorLayout
 
-## Screenshots
-
-[Add screenshots here]
-
-## Setup Instructions
-
-1. Clone the repository
-2. Open the project in Android Studio
-3. Sync Gradle files
-4. Run the app on an emulator or physical device
-
 ## Project Structure 
